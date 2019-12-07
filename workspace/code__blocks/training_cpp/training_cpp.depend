@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575696346 source:c:\03_git\00_playground\workspace\code__blocks\training_cpp\source\02_basic_elements\00_preprocessor_directives.cpp
+	<iostream>
+	"00_Preprocessor_Directives.hpp"
+
+1575691770 c:\03_git\00_playground\workspace\code__blocks\training_cpp\source\02_basic_elements\00_preprocessor_directives.hpp
+
+1575691913 source:c:\03_git\00_playground\workspace\code__blocks\training_cpp\source\main.cpp
+	<iostream>
+	"02_basic_elements/00_Preprocessor_Directives.hpp"
+
